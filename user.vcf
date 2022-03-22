@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Galbraith;Colin;;;
-FN: Colin Galbraith
+N:Pope;Michael;;;
+FN: Michael Pope
 ORG:GFS Fresh;
-TITLE:Managing Director Commercial
-EMAIL;type=INTERNET;type=WORK;type=pref:colin@gfsfresh.co.uk	
-TEL;type=WORK;type=VOICE:07967077118
+TITLE:Sales Manager
+EMAIL;type=INTERNET;type=WORK;type=pref:michael@gfsfresh.co.uk	
+TEL;type=WORK;type=VOICE:07795231958
 item1.ADR;type=WORK;type=pref:;;Haddonsacre, Station Rd, Offenham, Evesham WR11 8JJ
 item1.X-ABADR:sg
 item2.URL;type=pref:gfsfresh.co.uk
